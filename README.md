@@ -1,7 +1,8 @@
 # Listar Repositórios
 A página foi desenvolvida durante o modulo 05 do biitcamp GoStack da rocketSeat.
 
-## Funcionalidade: A aplicação busca repositórios do github conforme o nome inserido e lista as buscas. Possibilitando que o
+## Funcionalidade:
+A aplicação busca repositórios do github conforme o nome inserido e lista as buscas. Possibilitando que o
 usuário acesse o repositório e tenha mais informações.
 
 ## Desenvolvimento

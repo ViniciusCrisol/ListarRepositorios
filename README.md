@@ -10,6 +10,6 @@ A aplicação busca repositórios do github conforme o nome inserido e lista as 
 
 #
 
-![](https://viniciuscrisol.netlify.app/static/media/2.ef2e5d88.png)
+![](https://github.com/ViniciusCrisol/PortfolioNovo/blob/master/src/images/listarGit/1.png?raw=true)
 
 ![](https://viniciuscrisol.netlify.app/static/media/2.ef2e5d88.png)
